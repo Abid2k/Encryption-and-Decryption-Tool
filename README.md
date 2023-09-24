@@ -30,6 +30,4 @@ Feel free to customize the script and add more features as needed.
 
 Contributions are welcome! If you have ideas for improvements or new features, please submit a pull request.
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
