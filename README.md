@@ -20,9 +20,9 @@ Make sure you have the following libraries installed:
 
 ## Usage
 
-1. Replace `filename_to_decrypt` with the name of the file you want to encrypt and decrypt.
-2. Run the script to perform the encryption and decryption operations.
-3. Check the `logs` directory for detailed activity logs.
+1. Replace `filename_to_decrypt` with the name of the file you want to encrypt and decrypt..
+2. Run the script to perform the encryption and decryption operations..
+3. Check the `logs` directory for detailed activity logs..
 
 Feel free to customize the script and add more features as needed.
 
